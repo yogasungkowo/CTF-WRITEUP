@@ -2,6 +2,7 @@
 
 ## About Challenge
 Challenge ini menuntut kita untuk mempelajari terkait cara kerja cookie di sebuah website
+
 ![Screenshot from 2023-06-14 01-54-54](https://github.com/yogasungkowo/CTF-WRITEUP/assets/93362737/a5cbed60-8f3d-4619-b775-1680a73fd1df)
 
 ## Solutions
