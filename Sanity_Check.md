@@ -1,3 +1,4 @@
+# Sanity Check
 ## About The Challenge
 
 Diberikan kode cyphertext seperti ini :
